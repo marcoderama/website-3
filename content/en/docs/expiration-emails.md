@@ -28,7 +28,7 @@ old certificate, you will get expiration email about your old certificate.
 If you check the certificate currently running on your website, and it
 shows the correct date, no further action is needed.
 To see a history of issued certificates for your domain, you could search for
-your domain on certificate transparancy log monitors such as
+your domain on certificate transparency log monitors such as
 [crt.sh](https://crt.sh/).
 
 # Unsubscribing
